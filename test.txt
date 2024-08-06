@@ -1,1 +1,3 @@
 test file
+
+git commit --author="Name <>" -m "whatever"
